@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prettier:check": "prettier ./src --check",
-    "prettier:fix": "prettier ./src --write"
+    "format:check": "prettier ./src --check",
+    "format:fix": "prettier ./src --write"
   },
   "dependencies": {
     "next": "15.3.3",
