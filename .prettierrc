@@ -8,7 +8,11 @@
   "bracketSpacing": true,
   "printWidth": 90,
   "endOfLine": "auto",
-  "plugins": ["prettier-plugin-tailwindcss"],
+  "plugins": [
+    "prettier-plugin-organize-imports", 
+    "prettier-plugin-tailwindcss"
+  ],
   "tailwindStylesheet": "./src/app/globals.css",
-  "tailwindFunctions": ["clsx"]
+  "tailwindFunctions": ["clsx"],
+  "organizeImportsSkipDestructiveCodeActions": true
 }
