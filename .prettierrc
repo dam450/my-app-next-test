@@ -6,6 +6,7 @@
   "singleQuote": true,
   "arrowParens": "always",
   "bracketSpacing": true,
-  "printWidth": 120,
-  "endOfLine": "auto"
+  "printWidth": 80,
+  "endOfLine": "auto",
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
