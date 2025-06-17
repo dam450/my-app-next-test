@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "getStarted": "Get started by editing",
+    "saveAndSeeChanges": "Save and see your changes instantly",
+    "DeployNow": "Deploy now",
+    "readDocs": "Read our docs",
+    "learn": "Learn",
+    "examples": "Examples",
+    "goTo": "Go to"
+  },
+  "AboutPage": {
+    "title": "About us"
+  },
+  "NotFoundPage": {
+    "title": "Page not found"
+  }
+}
